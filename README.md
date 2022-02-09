@@ -27,3 +27,4 @@
 11. Can we add a new remote to our repo, if yes, what is the command?
 12. Write git commands to view status of changes and the commit history.
 13. List the basic linux commands that you learnt and write their uses.
+14. How to sync your changes in local repository to remote one?

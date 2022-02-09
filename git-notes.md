@@ -1,5 +1,5 @@
 
- # GROUP 5 (Git)
+ # GROUP 5 (Git Activity)
 
 **ans 1:** VSC is the practice of tracking and managing changes to software code.
 
@@ -30,7 +30,7 @@ for switching to a different branch: git checkout branchname
 **ans 12:**  We may use git status and git log to view status of changes and the commit history  .</br></br>
 **ans 13:** Some of the basic linux command I know and their </br>
 functions are listed below:</br>
-     <p>   1. cd </br>
+     <p>   1.cd </br>
         change directory with a specific path</br>
         2.ls</br>
         list directory contents</br>

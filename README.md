@@ -9,6 +9,8 @@
 5. Do not push directly to main branch.
 6. The PR of a member can be reviewed by the other two members. If the answer looks good, approve and merge. If not leave comments on the PR.
 7. Do not copy/paste answers, write in you own words.
+8. Use markdown features to make your notes pretty :)
+9. Use appropriate md feature to add code snippets or commands
 
 ## Questions
 
@@ -24,3 +26,4 @@
 10. Write git commands to create a new branch and switch to a different branch.
 11. Can we add a new remote to our repo, if yes, what is the command?
 12. Write git commands to view status of changes and the commit history.
+13. List the basic linux commands that you learnt and write their uses.

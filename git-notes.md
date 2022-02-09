@@ -29,21 +29,16 @@ for switching to a different branch: git checkout branchname
 **Ans 11:**  Yes we can add a new remote to our repository. We can use the "git remote add" command on our terminal.</br></br>
 **Ans 12:**  We may use git status and git log to view status of changes and the commit history  .</br></br>
 **Ans 13:** Some of the basic linux command I know and their </br>
-functions are listed below:</br>
-     <p>   1.cd </br>
-        change directory with a specific path</br>
-        2.ls</br>
-        list directory contents</br>
-        3.mv</br>
-        to move a file</br>
-        4.mkdir</br>
-        to make a directory</br>
-        5.cat</br>
-        used for concatanation </br>
-        6.clear </br>
-        to clear terminal screen</br>
-        7.reboot</br>
-        for rebooting</br><br>
+functions are listed below:
+```sh
+        1.cd : change directory with a specific path
+        2.ls : list directory contents
+        3.mv : to move a file
+        4.mkdir : to make a directory
+        5.cat : used for concatanation
+        6.clear : to clear terminal screen
+        7.reboot : for rebooting
+```
 **Ans 14:** We can sync local changes in remote repository using fetch, pull and update.</br></br>
 
 # THE END

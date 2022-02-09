@@ -3,6 +3,9 @@
 
 
 
+
+
+
 ## Ans 1:
 VSC is the practice of tracking and managing changes to software code.
 
